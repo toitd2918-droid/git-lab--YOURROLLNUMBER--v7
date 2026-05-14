@@ -9,3 +9,4 @@ branching, merging, and reverting in Git.
 - History control
 ## Status
 Project is under active development.
+Profile feature is in progress.
