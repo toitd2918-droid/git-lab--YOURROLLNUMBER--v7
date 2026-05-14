@@ -7,3 +7,5 @@ branching, merging, and reverting in Git.
 - Branch management
 - Conflict handling
 - History control
+## Status
+Project is under active development.
